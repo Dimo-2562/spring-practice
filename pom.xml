@@ -32,7 +32,7 @@
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-webflux</artifactId>  <!-- Reactive 웹 스타터 -->
+			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
 		<dependency>
